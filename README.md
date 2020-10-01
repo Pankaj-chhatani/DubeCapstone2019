@@ -7,7 +7,7 @@ InsulCalc, the Insulin Calculator for Type 1 Diabetics, was created to have the 
 As someone with a loved one who's diagnosed with Diabetes, I wanted to learn more about the disease while furthering my knowledge on Data Science. I collected my mother's, a Type 1 Diabetic, data, verified it, then put it through a Machine Learning Algorithm in order to see if I could calculate a more accurate insulin dosage to control her glucose levels on a day-to-day basis. 
 
 ### DISCLAIMER
-```markdown
+```markdown a important notice
 NOTICE OF RISK. InsulCalc can at times involve substantial risk of 
 injury- such as hypoglycemia (low blood sugar) and hyperglycemia 
 (high blood sugar) - and other dangers when used as a medicinal 
